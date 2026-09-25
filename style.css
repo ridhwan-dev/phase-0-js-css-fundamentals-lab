@@ -83,6 +83,7 @@
 }
 /*Footer */
 #footer {
+
     background-color: #222;
     color: #fff;
     padding: 2em;
@@ -91,4 +92,3 @@
     bottom: 0;
     width: 100%;
 }
-
